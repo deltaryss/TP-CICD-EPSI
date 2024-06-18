@@ -1,0 +1,7 @@
+{
+  "name": "CICD-Pipeline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
